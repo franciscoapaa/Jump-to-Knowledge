@@ -1,14 +1,14 @@
 # Jump to Knowledge
 
-Juego de plataformas estilo 8-bit con preguntas de trivia.
+Inspired by classic Mario-style games, this platformer blends nostalgic 8-bit box-jumping action with an interactive quiz. The choices you make in the quiz determine the next level of your adventure.
 
-## Instalación
+## Install
 
 ```
 pip install pygame
 ```
 
-## Cómo jugar
+## Play
 
 ```
 python main.py
